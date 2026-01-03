@@ -1,0 +1,5 @@
+{
+  "name": "ExcuseGen AI",
+  "description": "A smart chatbot interface that generates creative excuses using a connected Make.com webhook.",
+  "requestFramePermissions": []
+}
